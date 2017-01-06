@@ -1,3 +1,1 @@
-# c++_Calculator
-
-Made using c++ to show profeciency with stacks in c++
+Redirect calc.pavipath.com to this repo
